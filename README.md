@@ -1,4 +1,4 @@
-```markdown
+```md
 # Tuck Advisors Coding Task - Custom GPT Analysis API
 By Marty Coleman
 
